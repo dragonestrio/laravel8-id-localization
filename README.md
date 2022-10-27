@@ -25,6 +25,14 @@ setleah itu buka file /config/app.php :
 
 --------
 
+The next part to change indonesian language in Laravel 8 :
+https://github.com/dragonestrio/laravel8-id-validation-rules
+
+Bagian selanjutnya untuk merubah bahasa Indonesia di Laravel 8 :
+https://github.com/dragonestrio/laravel8-id-validation-rules
+
+--------
+
 Feel free to use and edit this asset in this repository
 
 --------
