@@ -1,4 +1,4 @@
-# Laravel 8 Indonesian Localization / Laravel 8 Terjemahan bahasa Indonesia
+# Laravel 8 Indonesian Localization / Laravel 8 Terjemahan Lang Resources bahasa Indonesia
 from
 # Satrio Nugroho
 --------
