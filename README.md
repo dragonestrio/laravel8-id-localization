@@ -1,6 +1,6 @@
 # laravel 8 indonesian localization
 from
-#satrio nugroho
+# Satrio Nugroho
 --------
 
 this is indonesian localization for laravel 8
